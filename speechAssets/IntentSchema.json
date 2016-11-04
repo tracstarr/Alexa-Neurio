@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "GetEnergyStats"      
+    },   
+    {
+      "intent":"GetAlwaysOn"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

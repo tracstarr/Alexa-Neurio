@@ -1,0 +1,11 @@
+GetEnergyStats what the current power usage is
+GetEnergyStats what the current energy usage is
+GetEnergyStats for current energy use
+GetEnergyStats for current power use
+GetAlwaysOn what the always on consumption is
+GetAlwaysOn for the current always on
+GetAlwaysOn for the current always on consumption
+GetAlwaysOn what the current always on is
+GetAlwaysOn always on
+GetAlwaysOn the average is
+GetAlwaysOn the average usage is
